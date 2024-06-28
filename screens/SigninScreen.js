@@ -38,8 +38,6 @@ function SigninScreen() {
                 text: 'email and password required',
                 backgroundColor: 'red'
             });
-
-
         }
     };
 
