@@ -50,6 +50,7 @@ function AddExpenseScreen(props) {
                 Snackbar.show({
                     text: 'Failed to add expenses.',
                     backgroundColor: 'red'
+
                 });
             }
         }
